@@ -3,7 +3,7 @@
 
 This repo contains the source and documentation for my dark-themed resume site, hosted as a **static website on Azure Storage**, fronted with **Azure CDN**, **Azure DNS**, and secured end-to-end with **HTTPS** using a custom SSL certificate.
 
-🌐 **Live site:** `https://ekaetteumoh.tech` (replace with your final URL)  
+🌐 **Live site:** https://ekaetteumoh.tech 
 👩🏾‍💻 **Role:** Junior Cloud Engineer (Azure | GCC High | M365)
 
 ---
@@ -49,8 +49,6 @@ See [`docs/architecture.md`](docs/architecture.md) for a more detailed breakdown
 ```text
 .
 ├── index.html              # Resume site HTML
-├── style.css               # Site styling
-├── script.js               # (Optional) future JS enhancements
 ├── docs/
 │   ├── architecture.md     # Architecture & diagrams
 │   ├── deployment-guide.md # Step-by-step Azure + Namecheap setup
