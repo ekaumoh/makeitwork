@@ -6,4 +6,4 @@ If you’d like to discuss this project or potential work:
 
 📧 equmoh@gmail.com
 
-🌐 ekaetteumoh.tech
+🌐 ekaetteumoh.cloud
